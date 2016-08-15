@@ -1,18 +1,18 @@
-Format: http://dep.debian.net/deps/dep5
-Source: http://svn.openstreetmap.org/applications/utils/mod_tile/
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/openstreetmap/mod_tile
 
 Files: *
 Copyright: © 2007 - 2011, Jon Burgess
-Copyright: © 2009 - 2012, Kai Krueger
-Copyright: © 2009 - 2011, Frederik Ramm
-Copyright: © 2008 - 2010, Tom Hughes
-Copyright: ©        2011, Stephan Knauss 
-Copyright: ©        2010, Lennard voor den Dag 
-Copyright: ©        2010, Dane Springmeyer 
-Copyright: ©        2010, Andreas Hubel 
-Copyright: ©        2010, Brian Quinion 
-Copyright: ©        2009, Ævar Arnfjörð Bjarmason 
-Copyright: ©        2009, Jochen Topf
+           © 2009 - 2012, Kai Krueger
+           © 2009 - 2011, Frederik Ramm
+           © 2008 - 2010, Tom Hughes
+           ©        2011, Stephan Knauss 
+           ©        2010, Lennard voor den Dag 
+           ©        2010, Dane Springmeyer 
+           ©        2010, Andreas Hubel 
+           ©        2010, Brian Quinion 
+           ©        2009, Ævar Arnfjörð Bjarmason 
+           ©        2009, Jochen Topf
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
@@ -30,5 +30,3 @@ License: GPL-2+
 Comments:
  On Debian systems, the complete text of the GNU General Public License
  version 2 or later can be found in `/usr/share/common-licenses/GPL-2'.
-
-

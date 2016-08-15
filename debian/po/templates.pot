@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: libapache2-mod-tile\n"
+"Report-Msgid-Bugs-To: libapache2-mod-tile@packages.debian.org\n"
+"POT-Creation-Date: 2016-08-15 16:26+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Type: boolean
+#. Description
+#: ../libapache2-mod-tile.templates:1001
+msgid "Do you want to enable mod_tile in the apache config?"
+msgstr ""
+
+#. Type: boolean
+#. Description
+#: ../libapache2-mod-tile.templates:1001
+msgid ""
+"This will enable the apache config for mod_tile WARNING: This will disable "
+"the currently active default site config"
+msgstr ""

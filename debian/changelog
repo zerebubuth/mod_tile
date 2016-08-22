@@ -1,4 +1,4 @@
-libapache2-mod-tile (0.4-12~trusty1) trusty; urgency=low
+libapache2-mod-tile (0.4-12~xenial1) xenial; urgency=low
 
  -- Matt Amos <zerebubuth@gmail.com>  Mon, 15 Aug 2016 16:05:37 +0100
 
